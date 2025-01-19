@@ -13,7 +13,8 @@ Visualized key performance indicators:
 
 Sales: €1.82M
 
-![image](https://github.com/user-attachments/assets/58aa2598-8c90-408a-a600-5a72d1f201df)
+![Image](https://github.com/user-attachments/assets/3a239b49-413c-42f3-8781-eb842b292cd0)
+
 
 
 Withdrawals: €2.0M
