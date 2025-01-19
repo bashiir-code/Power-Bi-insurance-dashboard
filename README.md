@@ -19,47 +19,45 @@ Sales: €1.82M
 
 Withdrawals: €2.0M
 
-![image](https://github.com/user-attachments/assets/d40aea5b-4359-4594-89c4-39893677117c)
-
+![Image](https://github.com/user-attachments/assets/519d9142-0978-4362-94e3-da699ee86b74)
 
 
 Net Sales: €208K
 
-![image](https://github.com/user-attachments/assets/6e41c4b1-f84e-42d9-845a-c58cc9774b00)
-
-
+![Image](https://github.com/user-attachments/assets/d9a2ecf3-e1d3-456f-8f1a-131e62663041)
 
 
 
 Interactive demographic filters (Gender: Male, Female, Other).
 
-![image](https://github.com/user-attachments/assets/9b3cc139-6f57-41ce-af32-00b31c0bed86)
+![Image](https://github.com/user-attachments/assets/a8e96cc4-818a-4fea-87aa-45a31e901653)
 
 
 
 Detailed advisor performance table displaying sales, withdrawals, and net sales.
 
-![image](https://github.com/user-attachments/assets/9765c0b3-661b-4646-8b00-5a1140f1e69d)
+![Image](https://github.com/user-attachments/assets/e75319ee-0246-49b9-8ab1-d4e0c53a18f2)
 
 
 Sales Insights:
 ---
 Regional breakdown of sales across key states.
 
-![image](https://github.com/user-attachments/assets/734f3143-ae2c-480c-92cb-2201f29b1923)
+![Image](https://github.com/user-attachments/assets/f4e43aa0-ec52-4f01-81bb-0416582783c7)
 
 
 
 Business line analysis (Life Insurance, House Insurance, etc.).
 Risk Assessment:
 
-![image](https://github.com/user-attachments/assets/cbe5db71-1654-4e3f-b30f-60cd270abf5f)
+![Image](https://github.com/user-attachments/assets/27556c09-2e47-48e5-95e7-696aca43caa8)
 
 
 
 Treemap visualization highlighting product risk distribution:
 
-![image](https://github.com/user-attachments/assets/b8534b81-030d-4a98-850a-7ba224eca3a2)
+
+![Image](https://github.com/user-attachments/assets/c0d91e06-a047-459f-956a-ff805331ecdb)
 
 
 Moderate: 29.9%
@@ -90,7 +88,7 @@ Power Query: Cleaned and transformed raw data to ensure accuracy and consistency
 Dashboard
 --
 
-![image](https://github.com/user-attachments/assets/01a1dfe7-706d-4dca-b69b-ac4f8dbb5719)
+![Image](https://github.com/user-attachments/assets/879b5560-bca7-4d19-bf46-dbadcf109d37)
 
 
 Key Insights
