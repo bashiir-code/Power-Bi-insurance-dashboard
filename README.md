@@ -43,14 +43,13 @@ Sales Insights:
 ---
 Regional breakdown of sales across key states.
 
-![Image](https://github.com/user-attachments/assets/f4e43aa0-ec52-4f01-81bb-0416582783c7)
-
+![Image](https://github.com/user-attachments/assets/27556c09-2e47-48e5-95e7-696aca43caa8)
 
 
 Business line analysis (Life Insurance, House Insurance, etc.).
 Risk Assessment:
 
-![Image](https://github.com/user-attachments/assets/27556c09-2e47-48e5-95e7-696aca43caa8)
+![Image](https://github.com/user-attachments/assets/f4e43aa0-ec52-4f01-81bb-0416582783c7)
 
 
 
